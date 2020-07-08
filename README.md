@@ -5,7 +5,7 @@ Use of Python visualization libraries such as Matplotlib and Folium.
 What is nice about Folium is that it was developed for the sole purpose of visualizing geospatial data. While other libraries are available to visualize geospatial data, such as plotly, they might have a cap on how many API calls you can make within a defined time frame. Folium, on the other hand, is completely free.
 
 
-Introduction to Folium
+#Introduction to Folium   
 Folium is a powerful Python library that helps you create several types of Leaflet maps. The fact that the Folium results are interactive makes this library very useful for dashboard building.
 
 From the official Folium documentation page:
@@ -18,7 +18,7 @@ The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and St
 
 
 
-Datasets:
+#Datasets:
 
 San Francisco Police Department Incidents for the year 2016 - Police Department Incidents from San Francisco public data portal. Incidents derived from San Francisco Police Department (SFPD) Crime Incident Reporting system. Updated daily, showing data for the entire year of 2016. Address and location has been anonymized by moving to mid-block or to an intersection.
 
